@@ -1,0 +1,37 @@
+body {
+margin: 0;
+padding: 0;
+}
+.H1 { margin-top: 0; }
+.Register {
+	float: right;
+	margin-right: 20px;
+	margin-top: 5px;
+    font-family: "Arial";
+}
+.nav {
+	height: 50px;
+background: #00FFFF;  /* fallback for old browsers */
+    font-family: "Arial";
+}
+
+.navigate_Li li{
+
+	list-style: none;
+	float: left;
+	text-align: center;
+	margin: 5px 4%;
+    font-family: "Arial";
+}
+.MainText {
+	font-size: 20px;
+	background: white;  /* fallback for old browsers */
+    font-family: "Arial";
+
+
+}
+.Table{
+		background: #00FFFF;  /* fallback for old browsers */
+    font-family: "Arial";
+}
+<!-- cleare: both -->
